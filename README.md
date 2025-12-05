@@ -1,4 +1,4 @@
-# 🎓 Course Registration Portal | Java Servlets + JSP + JDBC
+<img width="1645" height="887" alt="image" src="https://github.com/user-attachments/assets/25451671-1335-4d72-8b07-d44c3778736f" /># 🎓 Course Registration Portal | Java Servlets + JSP + JDBC
 
 A **web-based course enrollment system** built using **Java Servlets**, **JSP**, and **JDBC**.  
 This application allows students to **register, view available courses, and enroll** through a secure login system.
@@ -53,7 +53,7 @@ USE courseportal;
 
 ---
 
-▶️ Run the Project
+##▶️ Run the Project
 
 Install Apache Tomcat (9+)
 Copy this project into webapps folder
@@ -64,12 +64,12 @@ Open Browser:
 
 ---
 
-👨‍💻 Author
+📸 Screenshots![pro3](https://github.com/user-attachments/assets/9209d21c-4208-489a-a3e3-c23b86110659)
+
+##👨‍💻 Author
 
 Perecherla Anant Varma — Java Full Stack Developer
 📌 Feel free to contribute or suggest improvements!
-
----
 
 ⭐ If you like this project
   Give it a ⭐ on GitHub!
