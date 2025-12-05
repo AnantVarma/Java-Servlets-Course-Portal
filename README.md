@@ -64,11 +64,16 @@ Open Browser:
 
 ---
 
-📸 Screenshots!
-![pro1](https://github.com/user-attachments/assets/3b5264d2-f8b5-44d6-83df-e1f077932c2d)
-![pro2](https://github.com/user-attachments/assets/8d32a1ef-29fd-44b3-925a-0ba954d6ef4f)
+### 📸 Screenshots
 
-[pro3](https://github.com/user-attachments/assets/9209d21c-4208-489a-a3e3-c23b86110659)
+> 🏠 **Dashboard Page**
+![Dashboard](https://github.com/user-attachments/assets/3b5264d2-f8b5-44d6-83df-e1f077932c2d)
+
+> 🔐 **Login Page**
+![Login](https://github.com/user-attachments/assets/8d32a1ef-29fd-44b3-925a-0ba954d6ef4f)
+
+> 📝 **Registration Page**
+![Register](https://github.com/user-attachments/assets/9209d21c-4208-489a-a3e3-c23b86110659)
 
 
 ##👨‍💻 Author
